@@ -13,7 +13,7 @@ a {
 }
 
 .container {
-  width: 960px;
+  width: 750px;
   margin: 0 auto;
 }
 
@@ -81,4 +81,31 @@ a {
 .text-area .show {
   color: #0684a0;
   font-size: 14px;
+}
+
+@media screen and ( max-width:699px ) {
+  .content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .container {
+    width: 480px;
+  }
+  .area-header {
+    text-align: center;
+  }
+  .area-column {
+    width: 300px;
+    margin-bottom: 30px;
+  }
+  .head-box .party {
+    font-size: 18px;
+  }
+  .text-area {
+    font-size: 16px;
+  }
+  .text-area .show {
+    font-size: 18px;
+  }
 }
