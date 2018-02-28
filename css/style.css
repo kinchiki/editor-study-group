@@ -17,7 +17,7 @@ a {
 }
 
 .content {
-  width: 640px;
+  width: 750px;
   display: flex;
   justify-content: space-between;
 }
@@ -25,6 +25,7 @@ a {
 .area-header {
   background-color: #b4e3ed;
   padding: 8px;
+  margin: 10px;
   color: #616161;
   vertical-align: middle;
   font-size: 18px;
@@ -34,7 +35,7 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  width: 135px;
+  width: 160px;
   margin: 10px;
   text-align: center;
 }
@@ -42,14 +43,14 @@ a {
 .head-box {
   border: 1px solid #ccc;
   border-radius: 3px;
-  height: 110px;
+  height: 120px;
 }
 
 .head-box .area {
   font-size: 24px;
   font-weight: bold;
   color: #e88994;
-  margin: 20px 0;
+  margin: 25px 0;
 }
 
 .head-box .party {
