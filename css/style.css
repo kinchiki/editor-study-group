@@ -1,3 +1,4 @@
+/* mizuno original です */
 body {
   font-family: Avenir, "Open Sans", "Helvetica Neue", Helvetica, Arial, Verdana, Roboto, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "Meiryo UI", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -17,9 +18,9 @@ a {
 }
 
 .content {
-  width: 750px;
+  margin: 0 auto;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .area-header {
