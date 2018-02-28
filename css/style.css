@@ -16,6 +16,12 @@ a {
   margin: 0 auto;
 }
 
+.content {
+  width: 640px;
+  display: flex;
+  justify-content: space-between;
+}
+
 .area-header {
   background-color: #b4e3ed;
   padding: 8px;
