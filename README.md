@@ -52,6 +52,9 @@ Miscrosoftが開発したオープンソースの高機能エディタ。
     - fisoya
     - 他にもいるかも
 
+## 勉強教材
+**[これを作りましょう！](https://kinchiki.github.io/lb-editor-study-group/)**
+
 ## おすすめ記事
 - [超絶初心者のためのフロント入門（HTML、CSS、JavaScript） - Qiita](https://qiita.com/shuntaro_tamura/items/c9b2fec0f3a9f7d1e987)
 - [VSCodeの拡張機能 おすすめ(8/14更新) - Qiita](https://qiita.com/EbXpJ6bp/items/4b87a092a3d6a0ecf595)
