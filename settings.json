@@ -1,27 +1,16 @@
 {
-  // 水野オススメ設定一部抜粋
+  // キンチキオススメ設定一部抜粋
   "editor.fontSize": 12, // フォントサイズ
+  "editor.tabSize": 2, // インデントサイズ
   "editor.renderWhitespace": "all", // スペースの表示
+  "editor.wordWrap": "on", // コードの折り返し
+
   "files.insertFinalNewline": true, // 最終行に空行挿入
   "files.autoSave": "afterDelay", // 自動保存
   "files.autoSaveDelay": 1000, // 自動保存までの時間
   "files.autoGuessEncoding": true, // エンコーディングの推測
+  "files.trimTrailingWhitespace": true, // 行末スペースの削除
+
   "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}$", // ウィンドウ上部の表示
   "workbench.startupEditor": "newUntitledFile", // 起動時になにを開くか
-
-  "[html]": {
-      "editor.tabSize": 2
-  },
-  "[css]": {
-      "editor.tabSize": 2
-  },
-  "[scss]": {
-      "editor.tabSize": 2
-  },
-  "[javascript]": {
-      "editor.tabSize": 2
-  },
-  "[jsonc]": {
-      "editor.tabSize": 2
-  },
 }
