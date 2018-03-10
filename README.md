@@ -44,18 +44,21 @@ Miscrosoftが開発したオープンソースの高機能エディタ。
 - デザインがよい？
 - 社内に利用者が多いので質問しやすい
     - 水野
-    - nkitamura
-    - denis
-    - rtakahashi
-    - naufun
-    - yfunayose
-    - fisoya
+    - nk
+    - dt
+    - rt
+    - nr
+    - yf
+    - fi
     - 他にもいるかも
 
 ## 勉強教材
 **[これを作りましょう！（スマホ対応しています）](https://kinchiki.github.io/lb-editor-study-group/)**
 
 [ソースコードはこちらから](https://github.com/kinchiki/lb-editor-study-group)
+
+## 設定を変えよう
+[これをコピペしてください](https://github.com/kinchiki/editor-study-group/blob/master/settings.json)
 
 ## おすすめ記事
 - [超絶初心者のためのフロント入門（HTML、CSS、JavaScript） - Qiita](https://qiita.com/shuntaro_tamura/items/c9b2fec0f3a9f7d1e987)
