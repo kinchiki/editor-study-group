@@ -1,16 +1,40 @@
 {
-  // キンチキオススメ設定一部抜粋
-  "editor.fontSize": 12, // フォントサイズ
+  // キンチキオススメ設定 一部抜粋
+
+  // editor
+  // "editor.fontSize": 15, // フォントサイズ 適切な値はフォントによります
+  // "editor.fontFamily": "Ricty Diminished", // Rictyの方が好きですが、DiminishedならWindowsでも簡単に入れられそうです https://nelog.jp/how-to-use-ricty-diminished-font
+  // "editor.lineHeight": 17, // 行の高さ 適切な値はフォントによります
   "editor.tabSize": 2, // インデントサイズ
   "editor.renderWhitespace": "all", // スペースの表示
   "editor.wordWrap": "on", // コードの折り返し
 
+  // files
   "files.insertFinalNewline": true, // 最終行に空行挿入
   "files.autoSave": "afterDelay", // 自動保存
   "files.autoSaveDelay": 1000, // 自動保存までの時間
   "files.autoGuessEncoding": true, // エンコーディングの推測
   "files.trimTrailingWhitespace": true, // 行末スペースの削除
 
+  //window
+  // "window.zoomLevel": 1, 適切な値はフォントや行の高さによります
   "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}$", // ウィンドウ上部の表示
   "workbench.startupEditor": "newUntitledFile", // 起動時になにを開くか
+
+  // workbench
+  // "workbench.colorTheme": "Nord", // カラーテーマ 僕は好きです
+  // "workbench.iconTheme": "material-icon-theme", // アイコンテーマ 定番
+  "workbench.editor.tabSizing": "shrink", // タブが多いときに縮小してすべて表示
+
+  // terminal 使うことあれば設定してみてください
+  // "terminal.integrated.fontFamily": "Ricty Diminished",
+  // "terminal.integrated.fontSize": 14,
+  // "terminal.integrated.cursorBlinking": true,
+  // "terminal.integrated.cursorStyle": "line",
+
+  // language
+  "[markdown]": {
+    "editor.tabSize": 4,
+    "files.trimTrailingWhitespace": false
+  },
 }
