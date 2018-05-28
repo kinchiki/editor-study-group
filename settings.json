@@ -19,7 +19,7 @@
   //window
   // "window.zoomLevel": 1, 適切な値はフォントや行の高さによります
   "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}$", // ウィンドウ上部の表示
-  "workbench.startupEditor": "newUntitledFile", // 起動時になにを開くか
+  // "workbench.startupEditor": "newUntitledFile", // 起動時になにを開くか
 
   // workbench
   // "workbench.colorTheme": "Nord", // カラーテーマ 僕は好きです
